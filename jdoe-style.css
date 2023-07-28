@@ -7,9 +7,14 @@ h1, h2 {
   color: #FFFFFF;
 }
 
+h4, ul, li {
+  font-family: Monaco;
+  color: #FFFFFF;
+}
+
 p {
   font-family: Monaco;
-  color: #FFFFFF;;
+  color: #FFFFFF;
   font-size: 1.875em;
 }
 
@@ -18,6 +23,11 @@ strong, em {
   color: #E75480;
 }
 
-a {
-  
+a:link {
+  font-family: Copperplate;
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #E75480;
 }
