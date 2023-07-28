@@ -1,0 +1,18 @@
+body {
+  background-color: #6495ED;
+}
+
+h1, h2 {
+  font-family: Papyrus;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: Monaco;
+  color: #FFFFFF;;
+}
+
+strong, em {
+  font-family: Copperplate;
+  color: #F08080;
+}
