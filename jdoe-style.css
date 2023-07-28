@@ -16,12 +16,11 @@ h5, ul, li {
 p {
   font-family: Monaco;
   color: #FFFFFF;
-  font-size: 1em;
 }
 
 .emphasis {
   color: #E75480;
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 a:link, a:visited {
