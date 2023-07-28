@@ -10,9 +10,14 @@ h1, h2 {
 p {
   font-family: Monaco;
   color: #FFFFFF;;
+  font-size: 1.875em;
 }
 
 strong, em {
   font-family: Copperplate;
-  color: #F08080;
+  color: #E75480;
+}
+
+a {
+  
 }
